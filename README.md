@@ -1,4 +1,12 @@
-### Hi there 👋
+### brandon14
+
+Senior Software Developer [@trollandtoad](https://github.com/trollandtoad)
+
+Twitch Stream [@it_brand0n](https://twitch.tv/it_brand0n)
+
+It me...
+
+<img src="https://www.gravatar.com/avatar/9412b4bb150b2d9e74453b201166e9ca" />
 
 <!--
 **brandon14/brandon14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
