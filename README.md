@@ -16,6 +16,8 @@
 
 - 🎮 I sometimes post about game stuff at [https://brand0n.gg](https://brand0n.gg)
 
+- 🎥 I sometimes stream at [https://twitch.tv/it_brand0n](https://twitch.tv/it_brand0n)
+
 - 💬 Ask me about **PHP, Laravel, web development in general**
 
 - 📫 How to reach me **brandon14125@gmail.com**
