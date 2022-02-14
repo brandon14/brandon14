@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon Clothier</h1>
-<h3 align="center">A weird PHP developer from Kentucky</h3>
+<h3 align="center">A weird software developer from Kentucky</h3>
 <h3 align="center">Senior Lead Developer <a href="https://github.com/trollandtoad">@trollandtoad</a></h3>
 
 ---
