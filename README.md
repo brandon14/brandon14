@@ -5,7 +5,7 @@
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandon14&label=Profile%20views&color=E55C8A&style=flat-square" alt="brandon14"/> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandon14" alt="brandon14"/></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandon14&no-frame=true&theme=onedark&column=-1&margin-w=5" alt="brandon14"/></a></p>
 <p align="left"> <a href="https://twitter.com/inhal3exh4le" target="blank"><img src="https://img.shields.io/twitter/follow/inhal3exh4le?color=1DA1F2&logo=twitter&style=for-the-badge" alt="inhal3exh4le"/></a></p>
 
 ---
