@@ -97,6 +97,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats-one-plum.vercel.app/api?username=brandon14&show_icons=true&locale=en&theme=onedark&count_private=true&hide_border=true&include_all_commits=true" alt="brandon14" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats-14.herokuapp.com/?user=brandon14&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="brandon14" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=brandon14&theme=onedark&hide_border=true" alt="brandon14" /></p>
 
 ![](https://hit.yhype.me/github/profile?user_id=1152696)
