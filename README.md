@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon Clothier</h1>
-<h3 align="center">A weird software developer from Kentucky</h3>
+<h3 align="center">Software developer from Kentucky</h3>
 <h3 align="center">Senior Lead Developer <a href="https://github.com/trollandtoad">@trollandtoad</a></h3>
 
 ---
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **PHP, Laravel, web development in general**
 
-- 📫 How to reach me **brandon14125@gmail.com**
+- 📫 How to reach me **[brandon14125@gmail.com](mailto:brandon14125@gmail.com)**
 
 - 📄 Know about my experiences [https://static.brandonclothier.me/files/resume.pdf](https://static.brandonclothier.me/files/resume.pdf)
 
@@ -36,7 +36,7 @@
 <h3 align="left">Connect With Me</h3>
 <p align="left">
   <a href="https://twitter.com/inhal3exh4le" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inhal3exh4le" height="30" width="40" /></a>
-  <a href="https://twitch.tv/it_brand0n" target="blank"><img align="center" src="https://brand.twitch.tv/assets/logos/svg/glitch/purple.svg" alt="inhal3exh4le" height="30" width="40" /></a>
+  <a href="https://twitch.tv/it_brand0n" target="blank"><img align="center" src="https://brand.twitch.tv/assets/logos/svg/glitch/purple.svg" alt="it_brand0n" height="30" width="40" /></a>
   <a href="https://dev.to/brandon14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brandon14" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/brandon-clothier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon-clothier" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/7965016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7965016" height="30" width="40" /></a>
